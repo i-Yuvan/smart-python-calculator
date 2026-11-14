@@ -8,7 +8,7 @@ A desktop calculator featuring scientific operations, calculation history, and a
 
 <!-- Add your public or unlisted video URL here after uploading the video. -->
 
-## Description
+#### Description:
 
 Smart Python Calculator is a desktop-based scientific calculator developed using Python and CustomTkinter.
 
