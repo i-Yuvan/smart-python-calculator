@@ -103,10 +103,6 @@ python -m pytest -v -p no:cacheprovider test_project.py
 
 Run this command and confirm the test results before describing them as passed.
 
-## Design Choices — Complete This Section in Your Own Words
-
-Explain the decisions you made while developing the project. In particular, describe why you chose a graphical interface, how you approached expression evaluation, and why you used a text file for calculation history. Include a problem you encountered while developing the application and how you personally resolved it.
-
 ## Learning and Future Improvements
 
 Through this project, I practised Python functions, object-oriented programming, exception handling, file handling, working with libraries, expression parsing, GUI development, and automated testing.
