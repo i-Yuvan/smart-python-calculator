@@ -115,7 +115,7 @@ Possible future improvements include graph plotting, exporting calculation histo
 
 ## Author
 
-**[Add your name]**
+**Yuvan Prasad**
 
 GitHub: [i-Yuvan](https://github.com/i-Yuvan)
 
